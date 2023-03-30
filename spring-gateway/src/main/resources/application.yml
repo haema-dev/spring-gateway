@@ -1,0 +1,12 @@
+server:
+  port: 1004
+
+## springdoc
+#springdoc:
+#  swagger-ui:
+#    # swagger-ui custom path
+#    path: /swagger-ui.html
+## /api-docs endpoint custom path
+#  api-docs:
+#    path: /api-docs
+#  show-actuator: true
